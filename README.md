@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinhaaard13&label=Profile%20views&color=0e75b6&style=flat" alt="reinhaaard13" /> </p>
 
-- 🌱 I’m currently learning **react JS, MERN stack, node & express JS, everything!**
+- 🌱 I’m currently learning **react JS, node & express JS**
 
 - 👨‍💻 All of my projects are available at [https://reinhaaard13.github.io/portfolio/](https://reinhaaard13.github.io/portfolio/)
 
