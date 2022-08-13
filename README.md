@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://reinhaaard13.github.io/portfolio/](https://reinhaaard13.github.io/portfolio/)
 
-- 💬 Ask me about **react, python**
+- 💬 Ask me about **reactjs, nextjs, nodejs, expressjs, sequelize**
 
 - 📫 How to reach me **reinhardkevin.rk@gmail.com**
 
