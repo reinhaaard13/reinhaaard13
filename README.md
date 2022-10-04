@@ -5,7 +5,7 @@
 
 - 🌱 I’m using **ReactJS, NodeJS & ExpressJS or NextJS** for my projects
 
-- 👨‍💻 All of my projects are available at [https://reinhaaard13.github.io/portfolio/](https://reinhaaard13.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://reinhardkevin.xyz/](https://reinhardkevin.xyz/)
 
 - 💬 Ask me about **reactjs, nextjs, nodejs, expressjs, sequelize**
 
