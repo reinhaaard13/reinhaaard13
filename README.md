@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Reinhard Kevin</h1>
-<h3 align="center">Undergraduate IT Student at Kalbis Institute. Soon to be IT Web and Mobile Developer.</h3>
+<h3 align="center">Fullstack Web and Mobile Developer. Still an IT Student at Kalbis Institute.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinhaaard13&label=Profile%20views&color=0e75b6&style=flat" alt="reinhaaard13" /> </p>
 
