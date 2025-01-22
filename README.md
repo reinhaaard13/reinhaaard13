@@ -1,7 +1,7 @@
 # Halo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 Welcome to my Github🤘
 
-👋 I'm Reinhard Kevin, a passionate full-stack web developer from Indonesia. I specialize in building efficient and scalable web applications using modern technologies like JavaScript, React, Express.js, and Next.js. In my current role, I focus on backend development with Express.js, while leveraging my frontend skills for personal and freelance projects. I'm enthusiastic about creating intuitive user experiences, exploring new technologies, and recently, diving into mobile app development with React Native and Flutter. Besides coding, I enjoy sharing knowledge through short programming tutorials on TikTok. Let's connect and build something amazing together! 🚀
+👋 I'm Reinhard Kevin, a passionate full-stack developer from Indonesia. I specialize in building efficient and scalable web applications using modern technologies like JavaScript, React, Express.js, and Next.js. In my current role, I focus on backend development with Express.js, while leveraging my frontend skills for personal and freelance projects. I'm enthusiastic about creating intuitive user experiences, exploring new technologies, and recently, diving into mobile app development with React Native and Flutter. Besides coding, I enjoy sharing knowledge through short programming tutorials on TikTok. Let's connect and build something amazing together! 🚀
 
 - ⚙️ I’m using **ReactJS, NodeJS & ExpressJS or NextJS** for my projects
 
