@@ -5,7 +5,7 @@ Welcome to my Github🤘
 
 - ⚙️ I’m using **ReactJS, NodeJS & ExpressJS or NextJS** for my projects
 
-- 👨‍💻 All of my projects are available at [https://reinhardkevin.fun/](https://reinhardkevin.fun/)
+- 👨‍💻 All of my projects are available at [https://reinhardkevin.com/](https://reinhardkevin.com/)
 
 - 📫 How to reach me **reinhardkevin.rk@gmail.com**
 
